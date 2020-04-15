@@ -1,2 +1,2 @@
 # Web Publishing Project
-HTML website for Web Publishing Proj
+HTML codes and css to create a website for Web Publishing Proj
